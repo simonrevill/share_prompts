@@ -2,7 +2,7 @@
 
 JS Mastery - Next.js 13 Full Stack App Tutorial Project
 
-Open Open [https://www.youtube.com/watch?v=wm5gMKuwSYk](https://www.youtube.com/watch?v=wm5gMKuwSYk) to view the associated tutorail video.
+Open [https://www.youtube.com/watch?v=wm5gMKuwSYk](https://www.youtube.com/watch?v=wm5gMKuwSYk) to view the associated tutorail video.
 
 First, run the development server:
 
